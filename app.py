@@ -9,7 +9,7 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP],
 server=app.server
 
 coins = ["bitcoin", "ethereum", "binancecoin", "ripple"]
-interval = 3000  
+interval = 9000  
 api_url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd"
 
 def make_card(coin):
