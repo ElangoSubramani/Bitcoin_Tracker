@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cd/Boracay_White_Beach.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(97, 160, 248);
+
+    
+}
+.cardclass{
+    margin-top: 30px;
+    color:#0c6ffd;
+}
+.me1{
+    margin-top: 60px;
+}
